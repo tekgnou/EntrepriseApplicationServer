@@ -1,0 +1,6 @@
+﻿{
+    "message_type": 3,
+    "id_sender": 1,
+    "id_receiver": 2,
+    "message_text": "Message dans le bon format"
+}

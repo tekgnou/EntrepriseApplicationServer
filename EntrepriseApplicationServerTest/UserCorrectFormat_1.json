@@ -1,0 +1,12 @@
+﻿{
+    "message_type": 1 ,
+    "first_name": "Vincent",
+    "last_name": "Couvignou",
+    "password": "test_password",
+    "email": "vincent.couvignou@epitech.eu",
+    "birthday": "16/09/1990",
+    "sexe": "masculin",
+    "isConnected": false,
+    "userInscriptionDate": "19/03/2015",
+    "lastConnectionDate": "19/03/2015"
+}
